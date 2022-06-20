@@ -5,6 +5,3 @@ I'm [chensshuai2144](https://www.yuque.com/chenshuai) (期贤) .
 * 🍗 Like to eating all kinds of meat 
 * 👫 Married no child
 * 🦸‍♂️ Become a great programmer 
-
-
-[![chenshuai's github stats](https://github-readme-stats.vercel.app/api?username=chenshuai2144)](https://github.com/chenshuai2144)
